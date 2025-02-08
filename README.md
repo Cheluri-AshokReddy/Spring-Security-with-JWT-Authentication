@@ -87,6 +87,47 @@ Use Postman or any REST client to send API requests.
 
 Now, your request will be authenticated using JWT.
 
+
+## Contributing
+
+If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
+
+1. **Fork** the repository.
+2. **Create a new branch**:
+
+```bash
+git checkout -b feature-branch
+```
+
+3. **Make your changes**.
+4. **Commit your changes**:
+
+```bash
+git commit -m 'Add some feature'
+```
+
+5. **Push to the branch**:
+
+```bash
+git push origin feature-branch
+```
+
+6. **Submit a pull request**.
+
+---
+
+
+
 ## Conclusion
 This project showcases Spring Security with JWT authentication, starting with `InMemoryUserDetailsManager` and transitioning to an H2 database. JWT ensures secure, stateless authentication, making it an ideal choice for modern applications.
+
+## Contact
+
+For any questions, please contact:
+
+**Ashok Reddy Cheluri**
+
+GitHub: [Cheluri-AshokReddy](https://github.com/Cheluri-AshokReddy)  <br>
+Linkedin: [ashokreddycheluri](https://www.linkedin.com/in/ashokreddycheluri-740603235/)
+
 
