@@ -80,6 +80,7 @@ Use Postman or any REST client to send API requests.
 
 2. **Access a Secured Endpoint:**
    - Send a `GET` request to `http://localhost:8080/hello`.
+   -  In the **Authorization** tab of Postman select **No Auth**.
    - In the headers, add the following:
      - **Key:** `Authorization`
      - **Value:** `Bearer <your_jwt_token>`
