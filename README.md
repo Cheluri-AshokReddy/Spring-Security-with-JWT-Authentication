@@ -59,11 +59,11 @@ To get the latest JWT dependency, visit: [JWT Dependency](https://github.com/jwt
 1. Open your terminal or command prompt.
 2. Run the following command to clone the repository:
    ```bash
-   git clone <repository_url>
+   https://github.com/Cheluri-AshokReddy/Spring-Security-with-JWT-Authentication.git
    ```
 3. Navigate to the project directory:
    ```bash
-   cd <project_directory>
+   cd Spring-Security-with-JWT-Authentication
    ```
 
 ### Start the Application
